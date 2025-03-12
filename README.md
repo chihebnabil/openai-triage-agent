@@ -15,7 +15,7 @@ A demonstration of building an intelligent medical triage system using the OpenA
 1. Clone the repository
 2. Install dependencies:
 ```bash
-pip install agents-sdk python-dotenv colorama pydantic
+pip install openai-agents dotenv colorama pydantic
 ```
 
 3. Set up your OpenAI API key in `.env`:
