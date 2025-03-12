@@ -2,6 +2,8 @@
 
 A demonstration of building an intelligent medical triage system using the OpenAI Agent SDK. This project showcases how to create a multi-agent system that handles medical inquiries, appointments, and emergencies.
 
+[![asciicast](https://asciinema.org/a/707708.svg)](https://asciinema.org/a/707708)
+
 ## 🏥 Features
 
 - Automated medical triage with multiple specialized agents
